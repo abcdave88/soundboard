@@ -1,0 +1,44 @@
+body {
+  background-image: url('http://www.wallpapersonly.net/wallpapers/bruce-lee-fist-of-fury-1920x1200.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
+.container {
+   position: relative;
+   top: 80px;
+   width: 50% ;
+   margin-left:  auto;
+   margin-right: auto;
+
+}
+
+.row1 {
+  display:inline-block;
+}
+.row2{
+  display:inline-block;
+}
+.row3{
+  display:inline-block;
+}
+
+.box{
+  height:150px;
+  width:200px;
+  border:3px groove yellow;
+  border-radius: 2px;
+}
+
+.opacity {
+  opacity: 0.7;
+  width: 100%;
+}
+.opacity:hover {
+  opacity: 1;
+}
+
+
+
+
